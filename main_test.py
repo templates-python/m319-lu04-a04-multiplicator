@@ -23,7 +23,7 @@ def test_multiplicator_int(monkeypatch, capsys):
     # Check the printed output
     assert captured.out == (
         'Welcome to the MULTIPLICATOR!\n'
-        'Result: 15.0\n'
+        'Result: 15.00\n'
     )
 
 def test_multiplicator_float(monkeypatch, capsys):
@@ -48,5 +48,5 @@ def test_multiplicator_float(monkeypatch, capsys):
     # Check the printed output
     assert captured.out == (
         'Welcome to the MULTIPLICATOR!\n'
-        'Result: 16.5\n'
+        'Result: 16.50\n'
     )
