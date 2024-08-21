@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Input/Output",
+    "function": "Input/Output",
+    "timeout": 1,
+    "points": 1
+  },
+  {
+    "name": "Pytest",
+    "function": "Pytest",
+    "timeout": 10,
+    "points": 2
+  }
+]
