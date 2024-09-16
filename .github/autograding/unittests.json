@@ -1,13 +1,13 @@
 [
   {
-    "name": "Input/Output",
-    "function": "Input/Output",
+    "name": "test_multiplicator_int",
+    "function": "test_multiplicator_int",
     "timeout": 1,
-    "points": 1
+    "points": 2
   },
   {
-    "name": "Pytest",
-    "function": "Pytest",
+    "name": "test_multiplicator_float",
+    "function": "test_multiplicator_float",
     "timeout": 10,
     "points": 2
   }
